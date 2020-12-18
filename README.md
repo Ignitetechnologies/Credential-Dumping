@@ -21,3 +21,4 @@ This cheatsheet is aimed at the Red Teamers to help them understand the fundamen
 13. [Credential Dumping: LAPS](https://www.hackingarticles.in/credential-dumpinglaps/)
 14. [Credential Dumping: Domain Cache Credential](https://www.hackingarticles.in/credential-dumping-domain-cache-credential/)
 15. [Credential Dumping: Fake Services](https://www.hackingarticles.in/credential-dumping-fake-services/)
+16. [Credential Dumping: Windows Autologon Password](https://www.hackingarticles.in/credential-dumping-windows-autologon-password/)
