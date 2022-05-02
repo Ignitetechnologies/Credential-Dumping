@@ -10,6 +10,8 @@ This cheatsheet is aimed at the Red Teamers to help them understand the fundamen
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
+![image](https://raw.githubusercontent.com/Ignitetechnologies/Credential-Dumping/master/creds.png)
+
 1. [Credential Dumping: Wireless](https://www.hackingarticles.in/credential-dumping-wireless/)
 2. [Credential Dumping: Group Policy Preferences (GPP)](https://www.hackingarticles.in/credential-dumping-group-policy-preferences-gpp/)
 3. [Credential Dumping: Windows Credential Manager](https://www.hackingarticles.in/credential-dumping-windows-credential-manager/)
