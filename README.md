@@ -1,6 +1,6 @@
 # Credential Dumping Cheatsheet
 
-This cheatsheet is aimed at the Red Teamers to help them understand the fundamentals of Credential Dumping (Sub Technique of Credential Access) with examples. There are multiple ways to perform the same tasks. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is aimed at the Red Teamers to help them understand the fundamentals of Credential Dumping (a sub-technique of Credential Access) with examples. There are multiple ways to perform the same task. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
