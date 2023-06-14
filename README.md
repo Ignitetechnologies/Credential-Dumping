@@ -10,7 +10,7 @@ This cheatsheet is aimed at the Red Teamers to help them understand the fundamen
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
-![image](https://raw.githubusercontent.com/Ignitetechnologies/Credential-Dumping/master/creds.png)
+![image](https://raw.githubusercontent.com/Ignitetechnologies/Credential-Dumping/master/creds.jpg)
 
 1. [Wireless](https://www.hackingarticles.in/credential-dumping-wireless/)
 2. [Group Policy Preferences (GPP)](https://www.hackingarticles.in/credential-dumping-group-policy-preferences-gpp/)
