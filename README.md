@@ -29,3 +29,4 @@ This cheatsheet is aimed at the Red Teamers to help them understand the fundamen
 15. [Fake Services](https://www.hackingarticles.in/credential-dumping-fake-services/)
 16. [Windows Autologon Password](https://www.hackingarticles.in/credential-dumping-windows-autologon-password/)
 17. [Internal Monologue](https://www.hackingarticles.in/ntlm-downgrade-attack-internal-monologue/)
+18. [Reversible Password Encryption](https://www.hackingarticles.in/credential-dumping-active-directory-reversible-encryption/)
