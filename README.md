@@ -30,3 +30,6 @@ This cheatsheet is aimed at the Red Teamers to help them understand the fundamen
 16. [Windows Autologon Password](https://www.hackingarticles.in/credential-dumping-windows-autologon-password/)
 17. [Internal Monologue](https://www.hackingarticles.in/ntlm-downgrade-attack-internal-monologue/)
 18. [Reversible Password Encryption](https://www.hackingarticles.in/credential-dumping-active-directory-reversible-encryption/)
+19. [GMSA](https://www.hackingarticles.in/readgmsapassword-attack/)
+20. [AD User Comment](https://www.hackingarticles.in/credential-dumping-ad-user-comment-password-enumeration/)
+        
